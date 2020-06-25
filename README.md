@@ -1,1 +1,2 @@
-# wmcconn-devtestlab   Making changes
+# wmcconn-devtestlab   Making changes to the HpComptuer version.
+
